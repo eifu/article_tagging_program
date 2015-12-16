@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#   titleSpace.py
+#   article_tagging_program.py
 #   Eifu --Sep. 30
 #
 #
